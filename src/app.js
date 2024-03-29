@@ -1,2 +1,7 @@
 //Create Hello World!, in your favorite programming language 🛠️
-console.log('Hello world! 🌎')
+function printHelloWorld() {
+    console.log('Hello world! 🌎');
+}
+
+printHelloWorld();	
+
